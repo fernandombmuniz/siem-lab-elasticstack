@@ -52,4 +52,4 @@ Each section details step-by-step implementations, configurations, and troublesh
 
 ---
 
-> Project developed by [Fernando Montarroys](https://github.com/fernandombmuniz) to enhance hands-on cybersecurity and system administration skills.
+> Project developed by [Fernando Montarroyos](https://github.com/fernandombmuniz) to enhance hands-on cybersecurity and system administration skills.
